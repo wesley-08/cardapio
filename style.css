@@ -1,0 +1,46 @@
+.cardápio{
+    font-family: "slackey";
+}
+.titulo{
+    font-family: "Swanky and Moo Moo";
+}
+.doces{
+    font-family:"Swanky and Moo Moo" ;
+}
+.bebe{
+    font-family: "Swanky and Moo Moo";
+}
+.suco{
+    font-family: "Rajdhani";
+}
+.opcoes {
+    font-family: "Rajdhani";
+}
+.pizzas{
+    font-family: "Rajdhani";
+}
+.bebidas{
+    font-family: "Rajdhani";
+   
+}
+img {
+    width: 300px;
+}
+
+h2{
+    color:red
+}
+body{
+    background-color: black;
+    color: white;
+}
+.conteiner img{
+    width: 300;
+    float:left
+}
+.cardápio{
+    padding: 30px;
+}
+
+
+   
